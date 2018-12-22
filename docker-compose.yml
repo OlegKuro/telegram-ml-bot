@@ -1,0 +1,4 @@
+python:
+  build: ./docker/python
+  ports:
+    - 228:228
